@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.administrator.brithdaytime.MainActivity"
+    tools:layout_editor_absoluteY="81dp">
+
+    <com.example.administrator.brithdaytime.ClockView
+        android:id="@+id/myClock"
+        android:layout_width="250dp"
+        android:layout_height="260dp"
+        app:mBigSclaleColor="@android:color/black"
+        app:mCircleColor="@android:color/white"
+        app:mHourHandColor="@android:color/black"
+        app:mHourHandWidth="9dp"
+        app:mMiddleCaleColor="@android:color/black"
+        app:mMinuteHandColor="@android:color/black"
+        app:mMinuteHandWidth="5dp"
+        app:mSecondHandColor="@color/colorAccent"
+        app:mSecondHandWidth="2dp"
+        app:mSmallScaleColor="@color/colorAccent"
+        app:mTextColor="@android:color/black"
+        app:mTextSize="6sp"
+        tools:layout_editor_absoluteX="55dp"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+        android:layout_below="@+id/myClock"
+        android:layout_centerHorizontal="true"
+
+        android:text="@string/textview" />
+
+
+</RelativeLayout>
