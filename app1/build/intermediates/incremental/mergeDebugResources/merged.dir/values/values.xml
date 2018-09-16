@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <declare-styleable name="ClockView"><attr format="dimension" name="pointRadius"/><attr format="color" name="pointColor"/><attr format="dimension" name="timeTextSize"/><attr format="color" name="timeTextColor"/><attr format="dimension" name="timeScaleWidth"/><attr format="dimension" name="timeScaleHeight"/><attr format="color" name="timeScaleColor"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="clock_view_mode_text_size">20dp</dimen>
+    <string name="app_name">GAHonorClock</string>
+    <string name="clock_by_calculation">show clock by calculation</string>
+    <string name="clock_by_img">show clock by img</string>
+    <string name="clock_by_path">show clock by path</string>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\R\\Desktop\\BrithdayTime2\\app1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_clock_mask.png.flat",
+        "source": "C:\\Users\\R\\Desktop\\BrithdayTime2\\app1\\src\\main\\res\\drawable-xhdpi\\clock_mask.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Desktop\\BrithdayTime2\\app1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gastudio_icon.png.flat",
+        "source": "C:\\Users\\R\\Desktop\\BrithdayTime2\\app1\\src\\main\\res\\drawable-xhdpi\\gastudio_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Desktop\\BrithdayTime2\\app1\\build\\intermediates\\res\\merged\\debug\\layout_activity_clock_main.xml.flat",
+        "source": "C:\\Users\\R\\Desktop\\BrithdayTime2\\app1\\src\\main\\res\\layout\\activity_clock_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Desktop\\BrithdayTime2\\app1\\build\\intermediates\\res\\merged\\debug\\layout_activity_clock_by_img.xml.flat",
+        "source": "C:\\Users\\R\\Desktop\\BrithdayTime2\\app1\\src\\main\\res\\layout\\activity_clock_by_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Desktop\\BrithdayTime2\\app1\\build\\intermediates\\res\\merged\\debug\\layout_activity_clock_by_path.xml.flat",
+        "source": "C:\\Users\\R\\Desktop\\BrithdayTime2\\app1\\src\\main\\res\\layout\\activity_clock_by_path.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Desktop\\BrithdayTime2\\app1\\build\\intermediates\\res\\merged\\debug\\layout_activity_clock_by_caculation.xml.flat",
+        "source": "C:\\Users\\R\\Desktop\\BrithdayTime2\\app1\\src\\main\\res\\layout\\activity_clock_by_caculation.xml"
+    }
+]
