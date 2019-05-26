@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Dec 01 17:39:19 CST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\R\\Desktop\\BrithdayTime2\\app1\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+0.path=classes.dex
+0.set=DEX
+count=1
